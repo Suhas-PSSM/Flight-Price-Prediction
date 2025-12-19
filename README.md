@@ -30,3 +30,6 @@ The main objective of this project is to:
 1. Clone or download this repository.
    ```bash
    git clone https://github.com/your-username/flight-price-prediction.git
+
+## 🤝 Conclusion
+This Flight Price Prediction system demonstrates the practical application of machine learning in the travel industry. It provides accurate price estimations, helps users plan trips efficiently, and serves as a strong foundation for real-world predictive analytics applications.
